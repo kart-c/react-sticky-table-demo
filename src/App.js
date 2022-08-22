@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { StickyTable, Row, Cell } from "react-sticky-table";
 import { useEffect, useRef } from "react";
